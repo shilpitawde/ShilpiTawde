@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Shilpi 👋
 
-<!--
-**shilpitawde/ShilpiTawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+I specialize in analyzing data and building interactive dashboards using Power BI and Tableau, combined with SQL and Python, to uncover insights, optimize business performance, and support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills  
+- Power BI (Dashboarding & DAX)  
+- Tableau (Data Visualization & Dashboarding)  
+- SQL (Data Analysis & Queries)  
+- Python (Pandas, Data Processing)  
+- Data Visualization  
+- Business Analytics  
+
+---
+
+## 📊 Featured Projects
+
+### 🛒 Customer Shopping Behavior
+- Built a 4-page Power BI dashboard
+- Performed customer segmentation (New, Returning, Loyal)
+- Analyzed revenue trends, product performance, and discount impact
+
+🔗 https://github.com/shilpitawde/Customer-Shopping-Behavior
+
+---
+
+### 📈 Sales Insights Dashboard (Tableau)
+- Developed interactive Tableau dashboard
+- Analyzed revenue trends and customer performance
+- Identified top markets and products
+
+🔗 https://github.com/shilpitawde/Sales-Insights-Tableau-Dashboard
+
+---
+
+## 📈 Currently Learning
+- Advanced Power BI (DAX & Data Modeling)
+- Real-world analytics case studies
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: YOUR LINK
