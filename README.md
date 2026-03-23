@@ -38,9 +38,6 @@ I specialize in analyzing data and building interactive dashboards using Power B
 
 ## 📈 Currently Learning
 - Advanced Power BI (DAX & Data Modeling)
-- Real-world analytics case studies
+- Tableau (Advanced Dashboarding & Visualization Techniques)
+- Real-world business analytics case studies
 
----
-
-## 📫 Connect With Me
-- LinkedIn: YOUR LINK
